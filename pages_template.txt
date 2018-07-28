@@ -42,6 +42,7 @@ License: Creative Commons Attribution
 			
 			
 			</aside>
+<h1>Welcome to Skils'kin</h1>
 <article>
 <p>You have joined a company whose vision is to be most known for creating and implementing the model for the delivery of collaborative services for adults with disabilities. We look forward to your contribution and know that you will find value and fulfillment by working with us to achieve our mission.</p>
 
