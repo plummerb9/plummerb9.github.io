@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>anatine - a free css template</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--
+anatine, a free CSS web template by ZyPOP (zypopwebtemplates.com/)
+
+Download: http://zypopwebtemplates.com/
+
+License: Creative Commons Attribution
+//-->
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+</head>
+
+<body>
+
+		<section id="body" class="width">
+			<aside id="sidebar" class="column-left">
+
+			<header>
+				<h1><a href="#">Employee Handbook</a></h1>
+
+				<h2>Skils'kin</h2>
+				
+			</header>
+
+			<nav id="mainnav">
+  				<ul>
+                            		<li><a href="index.html">Home</a></li>
+                           		 <li class="selected-item"><a href="examples.html">Examples</a></li>
+                           		 <li><a href="#">Products</a></li>
+                            		<li><a href="#">Solutions</a></li>
+                            		<li><a href="#">Contact</a></li>
+                        	</ul>
+			</nav>
+
+			
+			
+			</aside>
+<article>
+<p>You have joined a company whose vision is to be most known for creating and implementing the model for the delivery of collaborative services for adults with disabilities. We look forward to your contribution and know that you will find value and fulfillment by working with us to achieve our mission.</p>
+
+<p>Skils'kin has prepared this employment handbook as a guide to assist you in understanding our expectations. The handbook provides you with information concerning personnel policies and procedures and will help make your employment relationship with Skils'kin mutually beneficial. This handbook, updated August 2018, replaces and supersedes any and all prior handbooks and/or workplace practices.</p>
+<p>I encourage you to communicate with your supervisor if you have any questions. I also encourage you to take advantage of your supervisor's willingness to provide you with a thorough orientation to our company and to show you how your contributions will enhance our efforts to accomplish our mission.
+Having the opportunity to work with people with disabilities is intensely rewarding. We look forward to working with you.</p>
+
+Sincerely,
+
+ 
+
+Brian Behler
+Chief Executive Officer
+Skils'kin
+		
+</article>
+
+			
+			<footer class="clear">
+				<p>&copy; Skils'kin Employee Handbook</p>
+			</footer>
+
+		</section>
+
+		<div class="clear"></div>
+
+	</section>
+	
+
+</body>
+</html>
