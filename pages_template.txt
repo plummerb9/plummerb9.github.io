@@ -23,9 +23,9 @@ License: Creative Commons Attribution
 			<aside id="sidebar" class="column-left">
 
 			<header>
-				<h1><a href="#">Employee Handbook</a></h1>
+				<h1><a href="#">anatine</a></h1>
 
-				<h2>Skils'kin</h2>
+				<h2>Welcome to my website!</h2>
 				
 			</header>
 
@@ -42,27 +42,31 @@ License: Creative Commons Attribution
 			
 			
 			</aside>
+			<section id="content" class="column-right">
+                		
+	    <article>
+	
 <h1>Welcome to Skils'kin</h1>
-<article>
+
 <p>You have joined a company whose vision is to be most known for creating and implementing the model for the delivery of collaborative services for adults with disabilities. We look forward to your contribution and know that you will find value and fulfillment by working with us to achieve our mission.</p>
 
 <p>Skils'kin has prepared this employment handbook as a guide to assist you in understanding our expectations. The handbook provides you with information concerning personnel policies and procedures and will help make your employment relationship with Skils'kin mutually beneficial. This handbook, updated August 2018, replaces and supersedes any and all prior handbooks and/or workplace practices.</p>
 <p>I encourage you to communicate with your supervisor if you have any questions. I also encourage you to take advantage of your supervisor's willingness to provide you with a thorough orientation to our company and to show you how your contributions will enhance our efforts to accomplish our mission.
 Having the opportunity to work with people with disabilities is intensely rewarding. We look forward to working with you.</p>
 
-Sincerely,
+<p>Sincerely,</p>
 
  
 
-Brian Behler
-Chief Executive Officer
-Skils'kin
-		
-</article>
+<p>Brian Behler</p>
+<p>Chief Executive Officer</p>
+<p>Skils'kin</p>			
+			
+			</article>
 
 			
 			<footer class="clear">
-				<p>&copy; Skils'kin Employee Handbook</p>
+				<p>&copy; 2015 sitename. <a href="http://zypopwebtemplates.com/">Free CSS Templates</a> by ZyPOP</p>
 			</footer>
 
 		</section>
