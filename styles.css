@@ -5,7 +5,7 @@ body {
 	margin:0px auto;
 	padding:0;
 	background: #222;
-	font-family: "Source Sans Pro","sans-serif";
+	font-family: "Franklin Gothic","sans-serif";
 	font-size: 1.0em;
 	color:#666;
 }
@@ -198,7 +198,7 @@ header h2 {
 /** body **/
 section#body {
 	padding: 0;
-	background: #80B763;
+	background: #0070cd;
 }
 
 
