@@ -5,7 +5,7 @@ body {
 	margin:0px auto;
 	padding:0;
 	background: #222;
-	font-family: "Source Sans Pro","sans-serif";
+	font-family: "Franklin Gothic","sans-serif";
 	font-size: 1.0em;
 	color:#666;
 }
@@ -246,7 +246,7 @@ nav#mainnav li a:hover {
 nav#mainnav li a {
 	color: #f0f0f0;
 	display: block;
-	padding: 15px 17px;
+	padding: 5px 5px;
 	text-align: right;
 	font-weight:  bold;
 	text-decoration: none;
