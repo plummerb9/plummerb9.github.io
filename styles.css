@@ -245,9 +245,9 @@ nav#mainnav li a:hover {
 }
 nav#mainnav li a {
 	color: #f0f0f0;
-	display: block;
+	display: block; padding: 3px;
 	text-align: right;
-	font-weight:  bold;
+ font-weight:  bold;
 	text-decoration: none;
 }
 
