@@ -6,7 +6,6 @@ body {
 	padding:0;
 	background: #222;
 	font-family: "Franklin Gothic","sans-serif";
-	font-size: 1.0em;
 	color:#666;
 }
 * {
@@ -44,8 +43,9 @@ blockquote p {
 	height: 1%;
 }
 p {
-	line-height:2.0em;
-	margin-bottom:20px;
+	font-size: 12pt;
+	line-height:1.0em;
+	margin-bottom:10px;
 }
 a {
 	color:#0070cd;
