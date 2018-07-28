@@ -48,7 +48,7 @@ p {
 	margin-bottom:20px;
 }
 a {
-	color:#6FAB4F;
+	color:#0070cd;
 }
 a:hover {
 	color:#FFFFFF;
@@ -121,12 +121,14 @@ border:none;
 
 }
 h1 {
+	color:#2f2f2f;
 	font-size:2.2em;
+	font-weight: bold;
+	
 }
 h2 {
 	color:#2f2f2f;
 	font-size:2.0em;
-	font-weight:bold;
 	padding:0 0 5px;
 	margin:0;
 }
@@ -138,7 +140,7 @@ h3 {
 h4 {
 	padding-bottom:10px;
 	font-size:1.4em;
-	color:#000;
+	color:#2f2f2f;
 }
 h5 {
 	padding-bottom:10px;
