@@ -226,20 +226,20 @@ nav#mainnav ul {
 
 nav#mainnav li {
 	padding:0;
-	border-bottom: 1px solid #99C581;
-	border-top: 1px solid #6FAB4F;
+	border-bottom: 1px solid #FFFFFF;
+	border-top: 1px solid #FFFFFF;
 }
 nav#mainnav li.selected-item  {
 	border-bottom:none;
 }
 nav#mainnav li.selected-item a,
 nav#mainnav li.selected-item a:hover {
-	color:#80B763;
+	color:#FFFFFF;
 	font-weight:bold;
-	background: #fff;
+	background: #002f86;
 }
 nav#mainnav li a:hover {
-	background:#669D48;
+	background:#002f86;
 	color: #fff;
 	text-decoration:none;
 }
