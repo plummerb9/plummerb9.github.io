@@ -234,7 +234,7 @@ nav#mainnav li.selected-item  {
 }
 nav#mainnav li.selected-item a,
 nav#mainnav li.selected-item a:hover {
-	color:#FFFFFF;
+	color:#0070cd;
 	font-weight:bold;
 	background: #fff;
 }
