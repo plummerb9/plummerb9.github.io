@@ -5,8 +5,7 @@ body {
 	margin:0px auto;
 	padding:0;
 	background: #222;
-	font-family: "Source Sans Pro","sans-serif";
-	font-size: 1.0em;
+	font-family: "Franklin Gothic","sans-serif";
 	color:#666;
 }
 * {
@@ -39,25 +38,27 @@ code, blockquote {
 }
 blockquote p {
 	font-style:italic;
-	font-family:Georgia, "Times New Roman", Times, serif;
+	font-family:"Franklin Gothic", "Franklin Gothic", "Franklin Gothic", serif;
 	margin:0;
 	height: 1%;
 }
 p {
-	line-height:2.0em;
-	margin-bottom:20px;
+	font-size: 12pt;
+	line-height:1.0em;
+	margin-bottom:10px;
 }
 a {
-	color:#6FAB4F;
+	color:#0070cd;
 }
 a:hover {
-	color:#000;
+	color:#FFFFFF;
 }
 a:focus {
 	outline:none;
 }
+
 a.button { 
-    background-color: #80B763;
+    background-color: #000000;
     border-radius: 5px;
     color: #FFFFFF;
     display: inline-block;
@@ -74,76 +75,39 @@ a.button-reversed {
 }
 
 a.button:hover {
-	background-color: #669D48;
+	background-color: #0070cd;
 }
 
 a.button-reversed:hover {
 	background-color: #222;
 }
-fieldset {
-	display:block;
-	border:none;
-	border-top:1px solid #e0e0e0;
-}
-fieldset legend {
-	font-weight:bold;
-	padding-right:10px;
-	color:#999;
-}
-fieldset form {
-	padding-top:15px;
-}
-fieldset p label {
-	float:left;
-	width:150px;
-	font-family: "Source Sans Pro","sans-serif";
-}
-fieldset form input, fieldset form select, fieldset form textarea {
-	padding:5px;
-	color:#333333;
-	font-size:13px;
-	font-family: "Source Sans Pro","sans-serif";
-	border:1px solid #ddd;
-}
-fieldset form input.formbutton {
-border:none;
-    background-color: #80B763;
-    border-radius: 5px;
-    color: #FFFFFF;
-    display: inline-block;
-    font-weight: bold;
-    padding: 8px 22px;
-    font-size: 0.8em;
-    letter-spacing: 0.25px;
-    text-decoration: none;
-    text-transform: uppercase;
 
-
-}
 h1 {
-	font-size:2.4em;
+	color:#2f2f2f;
+	font-size:24pt;
+	font-weight: bold;
+	
 }
 h2 {
 	color:#2f2f2f;
-	font-size:1.8em;
-	font-weight:bold;
+	font-size:22pt;
 	padding:0 0 5px;
 	margin:0;
 }
 h3 {
-	color:#80B763;
-	font-size:1.6em;
-	padding-bottom:10px;
+	color:#0070cd;
+	font-size:14pt;
+	padding-bottom:5px;
 }
 h4 {
-	padding-bottom:10px;
-	font-size:1.4em;
-	color:#000;
+	padding-bottom:5px;
+	font-size:13pt;
+	color:#2f2f2f;
 }
 h5 {
-	padding-bottom:10px;
-	font-size:1.2em;
-	color:#666666;
+	padding-bottom:5px;
+	font-size:12pt;
+	color:#0070cd;
 }
 ul, ol {
 	margin:0 0 35px 35px;
@@ -186,7 +150,7 @@ header h1 a:visited {
 }
 
 header h2 {
-	color:#C4DDB6;
+	color:#0070cd;
 	text-align: right;
 	font-size: 0.8em;
 	font-weight: normal;
@@ -198,7 +162,7 @@ header h2 {
 /** body **/
 section#body {
 	padding: 0;
-	background: #80B763;
+	background: #0070cd;
 }
 
 
@@ -226,29 +190,28 @@ nav#mainnav ul {
 
 nav#mainnav li {
 	padding:0;
-	border-bottom: 1px solid #99C581;
-	border-top: 1px solid #6FAB4F;
+	border-bottom: 1px solid #FFFFFF;
+	border-top: 1px solid #FFFFFF;
 }
 nav#mainnav li.selected-item  {
 	border-bottom:none;
 }
 nav#mainnav li.selected-item a,
 nav#mainnav li.selected-item a:hover {
-	color:#80B763;
+	color:#0070cd;
 	font-weight:bold;
 	background: #fff;
 }
 nav#mainnav li a:hover {
-	background:#669D48;
+	background:#0070cd;
 	color: #fff;
 	text-decoration:none;
 }
 nav#mainnav li a {
 	color: #f0f0f0;
-	display: block;
-	padding: 15px 17px;
+	display: block; padding: 3px;
 	text-align: right;
-	font-weight:  bold;
+ font-weight:  bold;
 	text-decoration: none;
 }
 
