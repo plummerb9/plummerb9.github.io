@@ -16,6 +16,19 @@ body {
 
 
 /** element defaults **/
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	padding:35px;
+}
 table {
 	width:75%;
 	text-align:left;
