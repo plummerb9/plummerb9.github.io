@@ -17,7 +17,7 @@ body {
 
 /** element defaults **/
 table {
-	width:100%;
+	width:75%;
 	text-align:left;
 }
 th, td {
@@ -25,8 +25,9 @@ th, td {
 }
 th {
 	color:#fff;
+font-weight:bold;
 	border-top:1px solid #222;
-	background-color:#2F2F2F;
+	background-color:#0070cd;
 }
 td {
 	border-bottom:1px solid #f4f4f4;
@@ -44,11 +45,11 @@ blockquote p {
 	height: 1%;
 }
 p {
-	line-height:2.0em;
+	line-height:1.5em;
 	margin-bottom:20px;
 }
 a {
-	color:#6FAB4F;
+	color:#0070cd;
 }
 a:hover {
 	color:#000;
@@ -262,10 +263,10 @@ border-bottom: 1px solid #eee;
  }
 
 article h2 {
-    padding-bottom: 0;
+    padding-bottom: 5px;
 	line-height: 1.1em;
 	letter-spacing: -2px;
-   font-size: 2.5em;
+   font-size: 2.0em;
 }
 
 article .article-info {
