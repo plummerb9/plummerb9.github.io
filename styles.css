@@ -16,6 +16,9 @@ body {
 
 
 /** element defaults **/
+.logotext {
+text-align: center;
+}
 iframe {
     display: block;
     margin-left: auto;
@@ -28,6 +31,10 @@ img {
     margin-right: auto;
     width: 50%;
 	padding:35px;
+}
+
+.logo {
+padding: 5px;
 }
 table {
 	width:75%;
@@ -137,6 +144,7 @@ border:none;
 h1 {
 	font-size:2.4em;
 }
+
 h2 {
 	color:#2f2f2f;
 	font-size:1.8em;
