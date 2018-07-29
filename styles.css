@@ -33,6 +33,12 @@ img {
 	padding:35px;
 }
 
+.signature {
+padding: 5px;
+width: 200px;
+display: inline;
+}
+
 .logo {
 padding: 5px;
 }
